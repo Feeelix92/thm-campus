@@ -373,7 +373,126 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":925.333333333333,
+                 "id":27,
+                 "name":"Raum 1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":498,
+                 "x":167.333333333333,
+                 "y":354.666666666667
+                }, 
+                {
+                 "height":568,
+                 "id":28,
+                 "name":"Raum 2",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":342.666666666667,
+                 "x":646.666666666667,
+                 "y":358.666666666667
+                }, 
+                {
+                 "height":568,
+                 "id":29,
+                 "name":"Raum 3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":346.666666666667,
+                 "x":1122.66666666667,
+                 "y":360
+                }, 
+                {
+                 "height":563.333333333333,
+                 "id":30,
+                 "name":"Raum 4",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":338,
+                 "x":1448.66666666667,
+                 "y":357.333333333333
+                }, 
+                {
+                 "height":506,
+                 "id":32,
+                 "name":"Raum 5",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":340,
+                 "x":1128,
+                 "y":1028
+                }, 
+                {
+                 "height":504,
+                 "id":33,
+                 "name":"Raum 6",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":344,
+                 "x":1446,
+                 "y":1028
+                }, 
+                {
+                 "height":834,
+                 "id":34,
+                 "name":"Mensa",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"zone",
+                 "visible":true,
+                 "width":1286,
+                 "x":508,
+                 "y":2046
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -393,7 +512,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":25,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
